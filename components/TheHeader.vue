@@ -65,7 +65,7 @@
               ></path>
             </svg>
           </button>
-          <div class="hidden md:flex">
+          <div class="gap-2 hidden md:flex">
             <button class="font-bold text-sm text-[#fd4a1f]">
               Iniciar sesión
             </button>
