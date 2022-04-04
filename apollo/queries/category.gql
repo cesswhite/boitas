@@ -1,0 +1,15 @@
+{
+  category {
+    __typename
+    Category {
+      children {
+        id
+        name
+      }
+      id
+      parent
+      parentId
+      slug
+    }
+  }
+}

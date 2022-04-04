@@ -1,0 +1,9 @@
+{
+  categories {
+    __typename
+    categoryFeed {
+      name
+      id
+    }
+  }
+}

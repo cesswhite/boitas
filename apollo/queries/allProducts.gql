@@ -1,0 +1,16 @@
+query allProducts {
+  allProducts {
+    productFeed {
+      id
+      name
+      price
+      slug
+      images {
+        src
+        height
+        width
+        __typename
+      }
+    }
+  }
+}
